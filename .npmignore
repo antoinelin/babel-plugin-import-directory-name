@@ -1,0 +1,7 @@
+src
+test
+*.log
+.idea
+*.DS_Store
+.AppleDouble
+.LSOverride
